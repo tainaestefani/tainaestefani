@@ -6,7 +6,7 @@
 
 <!-- PRESENTATION -->
 * 🚩 Estou apenas começando no mundo da programação.
-* 🖥️ Estudando Desenvolvimento de Sistemas.
+* 🖥️ Cursando Desenvolvimento de Sistemas.
 * 💪 Studying hard.
 
 <!-- GITHUB STATS -->
