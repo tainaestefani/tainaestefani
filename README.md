@@ -5,7 +5,7 @@
 </div>
 
 <!-- PRESENTATION -->
-* 🚩 Estou apenas começando no mundo da programação.
+* 🚩 Apenas começando no mundo da programação.
 * 🖥️ Cursando Desenvolvimento de Sistemas.
 
 <!-- COMMIT SNAKE -->
