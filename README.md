@@ -5,7 +5,6 @@
   <img align="right" alt="" height="300px" src="me.png"></summary>
 </div>
 
-
 <!-- PRESENTATION -->
 <p align="left">Estou cursando técnico em Desenvolvimento de Sistemas e, atualmente, mantenho foco nas linguagens Java e JavaScript. Possuo estudo constante ao meu alcance e procuro estar sempre por dentro das novidades do mundo tecnológico, o que tanto me fascina!</p>
 
