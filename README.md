@@ -1,12 +1,14 @@
 <!-- TITLE -->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">𐙚 Olá, eu sou a Tainá!</h2>
-    <img align="right" alt="" height="300px" src="me.png"></summary>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9ab193&left=true&Left=true&random=false&width=524&lines=𐙚+Olá,+eu+sou+a+Tainá!">
+  </a>
 </div>
 
+<img align="right" alt="" height="300px" src="me.png"></summary>
+
 <!-- PRESENTATION -->
-<p align="left">Estou cursando técnico em Desenvolvimento de Sistemas e, atualmente, mantenho foco nas linguagens Java e JavaScript. Possuo estudo constante ao meu alcance e procuro estar sempre por dentro das novidades do mundo tecnológico, o que tanto me fascina!
+<p align="left">Estou cursando técnico em Desenvolvimento de Sistemas e, atualmente, mantenho foco nas linguagens Java e JavaScript. Possuo estudo constante ao meu alcance e procuro estar sempre por dentro das novidades do mundo tecnológico, o que tanto me fascina!</p>
 
 <!-- LINKS -->
 <h3 align="left">Connect with me!</h3>
