@@ -3,9 +3,9 @@
   <ul align="left">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9ab193&left=true&Left=true&random=false&width=524&lines=𐙚+Olá,+eu+sou+a+Tainá!">
   </a>
+  <img align="right" alt="" height="300px" src="me.png"></summary>
 </div>
 
-<img align="right" alt="" height="300px" src="me.png"></summary>
 
 <!-- PRESENTATION -->
 <p align="left">Estou cursando técnico em Desenvolvimento de Sistemas e, atualmente, mantenho foco nas linguagens Java e JavaScript. Possuo estudo constante ao meu alcance e procuro estar sempre por dentro das novidades do mundo tecnológico, o que tanto me fascina!</p>
