@@ -31,21 +31,16 @@
   <img width="8"/>
 </div>
 
+<!-- GITHUB STATS 
+![taina8's Stats](https://github-readme-stats.vercel.app/api?username=taina8&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+![taina8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taina8&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+
 <!-- COMMIT SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taina8/taina8/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//taina8/taina8/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com//taina8/taina8/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-<!-- GITHUB STATS 
-<div>
-  
-![taina8's Stats](https://github-readme-stats.vercel.app/api?username=taina8&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
-![taina8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taina8&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
-
-</div>
 
 <!-- CREDITS -->
 <details align="left">
