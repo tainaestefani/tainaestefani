@@ -1,7 +1,7 @@
 <!-- TITLE -->
 <div id="user-content-toc">
   <ul align="left">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9ab193&left=true&Left=true&random=false&width=524&lines=𐙚+Olá,+eu+sou+a+Tainá!" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9ab193&left=true&Left=true&random=false&width=524&lines=⊹+Olá,+eu+sou+a+Tainá!+⊹" alt="Typing SVG">
   <img align="right" alt="" height="300px" src="me.png">
   </ul>
 </div>
@@ -31,17 +31,21 @@
   <img width="8"/>
 </div>
 
-<!-- GITHUB STATS --
+#
+
+<!-- GITHUB STATS -->
 <div style="text-align: center;" align="center">
 <br>
   
-![taina8's Stats](https://github-readme-stats.vercel.app/api?username=taina8&theme=cobalt&show_icons=true&hide_title=true&hide_border=false&border_radius=3&border_color=9ab193&bg_color=d2cfae&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&count_private=true)
-![taina8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taina8&theme=cobalt&show_icons=true&hide_border=false&border_radius=3&border_color=9ab193&bg_color=d2cfae&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&layout=compact)
+![taina8's Stats](https://github-readme-stats.vercel.app/api?username=taina8&theme=cobalt&show_icons=true&hide_title=true&hide_border=false&border_radius=3&border_color=9ab193&bg_color=201424&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&count_private=true)
+![taina8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taina8&theme=cobalt&show_icons=true&hide_border=false&border_radius=3&border_color=9ab193&bg_color=201424&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&layout=compact)
 
 </div>
 
+#
+
 <!-- COMMIT SNAKE -->
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taina8/taina8/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//taina8/taina8/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com//taina8/taina8/output/github-contribution-grid-snake.svg">
