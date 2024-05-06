@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul align="left">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9ab193&left=true&Left=true&random=false&width=524&lines=⊹+Olá,+eu+sou+a+Tainá!+⊹" alt="Typing SVG">
-  <img align="right" alt="" height="300px" src="me.png">
+  <img align="right" alt="" height="245px" src="me.gif">
   </ul>
 </div>
 
