@@ -28,6 +28,8 @@
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java Logo"/>
   <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="Java Logo"/>
+  <img width="8"/>
 </div>
 
 #
