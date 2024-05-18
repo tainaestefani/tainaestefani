@@ -19,7 +19,7 @@
 </div>
 
 <!-- LANGUAGES -->
-<h3 align="left">Used Languages</h3>
+<h3 align="left">Technologies</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5 Logo"/>
