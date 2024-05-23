@@ -38,8 +38,8 @@
 <div style="text-align: center;" align="center">
 <br>
   
-![taina8's Stats](https://github-readme-stats.vercel.app/api?username=taina8&theme=cobalt&show_icons=true&hide_title=true&hide_border=false&border_radius=3&border_color=9ab193&bg_color=201424&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&count_private=true)
-![taina8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taina8&theme=cobalt&show_icons=true&hide_border=false&border_radius=3&border_color=9ab193&bg_color=201424&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&layout=compact)
+![taina8's Stats](https://github-readme-stats.vercel.app/api?username=taina8&theme=cobalt&show_icons=true&hide_title=true&hide_border=false&border_radius=3&border_color=9ab193&bg_color=1c1424&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&count_private=true)
+![taina8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taina8&theme=cobalt&show_icons=true&hide_border=false&border_radius=3&border_color=9ab193&bg_color=1c1424&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&layout=compact)
 
 </div>
 
