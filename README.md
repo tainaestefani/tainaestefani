@@ -45,5 +45,3 @@
 ![taina8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tainaestefani&theme=cobalt&show_icons=true&hide_border=false&&bg_color=1c1c1c&title_color=9ab193&text_color=9ab193&line_height=25&hide=issues&layout=compact)
 
 </div>
-
-#
