@@ -1,7 +1,7 @@
 <!-- TITLE -->
 <div id="user-content-toc">
   <ul align="left">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9ab193&left=true&Left=true&random=false&width=524&lines="‧₊˚𖹭+Olá,+eu+sou+a+Tainá!+.ᐟ ౨ৎ˚₊‧" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9ab193&left=true&Left=true&random=false&width=524&lines=‧₊˚𖹭+Olá,+eu+sou+a+Tainá!+.ᐟ ౨ৎ˚₊‧" alt="Typing SVG">
   <img align="right" alt="" height="300px" src="me.png">
   </ul>
 </div>
