@@ -10,6 +10,8 @@
 
 #
 
+<img align="right" alt="Sawako GIF" height="160px" src="sawako.gif">
+
 <!-- LINKS -->
 <h3 align="left">Connect with me!</h3>
 
@@ -17,7 +19,6 @@
   <p "ㅤ"></p>
   <a href="mailto:tainaestefanim@gmail.com" target="_blank"><img width="8.8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9ab193" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tainá-estefani-martins/" target="_blank"><img width="11.2%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=9ab193" target="_blank"></a>
-  <img align="right" alt="Sawako GIF" height="160px" src="sawako.gif">
 </div>
 
 <!-- LANGUAGES -->
