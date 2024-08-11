@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" alt="Sawako GIF" height="190px" src="sawako.gif">
+<img align="right" alt="Sawako GIF" height="180px" src="sawako.gif">
 
 <!-- LINKS -->
 <h3 align="left">Connect with me!</h3>
