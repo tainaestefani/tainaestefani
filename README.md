@@ -30,8 +30,6 @@
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="Css3 Logo"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git Logo"/>
-  <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="Figma Logo"/>
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="Visual Studio Code Logo"/>
