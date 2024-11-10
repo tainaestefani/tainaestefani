@@ -7,7 +7,7 @@
 </div>
 
 <!-- PRESENTATION -->
-<p align="left">Estou cursando técnico em Desenvolvimento de Sistemas e, atualmente, mantenho foco nas linguagens Java e JavaScript. Possuo estudo constante ao meu alcance e procuro estar sempre por dentro das novidades do mundo tecnológico, o que tanto me fascina!</p>
+<p align="left">Estou cursando o Técnico em Desenvolvimento de Sistemas, com foco em Java. Sou dedicada a manter um estudo constante e sempre busco estar atualizada com as novidades do mundo tecnológico, uma área que realmente me fascina!</p>
 
 #
 
