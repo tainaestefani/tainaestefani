@@ -36,8 +36,6 @@
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="Visual Studio Code Logo"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="Arduino Logo"/>
-  <img width="8"/>
 </div>
 
 #
